@@ -72,13 +72,13 @@
     height: 100%;
     width: 100%;
     padding: 2.5rem 0;
-    /* background: rgba(245, 247, 255, 0.85); */
+    background: rgba(245, 247, 255, 0.85);
   }
   .container .hero-container{
     flex-direction: column;
     padding: 0px;
     gap: 0;
-    height: 670px;
+    height: 600px;
   }
 
   .container .hero-container .hero-left{
