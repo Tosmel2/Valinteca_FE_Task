@@ -85,7 +85,7 @@ function SignUp() {
           }, 3000);
         } else{
            if (userPassword !== confirmUserPassword){
-            toast.warning("Password incorrect!")
+            toast.warning("Password does not match")
            };
            if(userName.endsWith("0") ||
            userName.endsWith("1") ||
